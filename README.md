@@ -11,4 +11,4 @@ This project attempts to create a terrain authoring tool that simplifies the cre
 ![example](images/generated/test_sketch_output21.png)
 
 On the left is the generated image. Second image is the target and right images are user sketches.
-Sketches are extracted from the target image through water flow analysis and randomly dropped.
+Sketches are extracted from the target image through water flow analysis then randomly dropped.
