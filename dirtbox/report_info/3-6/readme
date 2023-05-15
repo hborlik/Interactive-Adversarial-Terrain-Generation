@@ -1,0 +1,6 @@
+training/saved_models/terrain_generatorE323.h5
+
+changed model to pix-2-pix.
+ and resized generator correctly to fix nan issues.
+ Output now looks good for generated input data. It was not tested much for
+ any custom drawn pictures. 

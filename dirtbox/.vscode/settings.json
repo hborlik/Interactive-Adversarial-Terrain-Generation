@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "sketch-to-terrain/venv/bin/python",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true
+}

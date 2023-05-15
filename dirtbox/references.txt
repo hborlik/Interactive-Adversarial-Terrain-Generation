@@ -1,0 +1,11 @@
+Rendering:
+http://onrendering.com/data/papers/isubd/isubd.pdf
+
+
+Generating:
+https://hal.archives-ouvertes.fr/hal-01583706/file/tog.pdf
+impl:
+https://github.com/nanoxas/sketch-to-terrain
+
+code:
+http://geologyandpython.com/dem-processing.html

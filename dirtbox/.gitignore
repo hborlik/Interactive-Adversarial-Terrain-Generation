@@ -1,0 +1,9 @@
+build/*
+*.bin
+sketch-to-terrain/venv/*
+sketch-to-terrain/training/data/**
+sketch-to-terrain/generated/**
+**/__pycache__/**
+dirtbox/runtime/temp/*
+
+!*.gitkeep

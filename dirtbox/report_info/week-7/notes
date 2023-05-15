@@ -1,0 +1,8 @@
+working on adding more options to save and load images
+can load images and feed them to generator
+erosion is not quite as fine tuned as I would like it to be.
+
+May 17:
+    trying another gan model to get some better generated terrain. Still using pix2pix
+    UNet architecture, but also added MSG bypass connections. MSG failed to produce any
+    meaningful increase in quality. EMA still failes to produce any useable model. 
